@@ -1,0 +1,6 @@
+#Before Going ahead Create Virtual Environment and install all the Requirements 
+
+python -m venv venv
+source venv/bin/activate  # Mac      
+venv\Scripts\activate  # Windows: 
+pip install -r requirements.txt

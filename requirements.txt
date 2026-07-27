@@ -1,0 +1,5 @@
+groq>=0.1.0
+openai>=1.40.0
+dotenv
+
+
